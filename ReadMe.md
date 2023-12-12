@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm currently working on Toxic comments Detection and classification using ML.
+
+- 🔭 I’m currently working on ...Toxic comments Detection and classification using ML.
+- 🌱 I’m currently learning ... Data Science
+- 👯 I’m looking to collaborate on ... Machine Learning related projects
+- 🤔 I’m looking for help with ... Deep learning 
+- 📫 How to reach me: ... E-Mail - asankejr@gmail.com
 
 
 ## 🌐 Socials:
